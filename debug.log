@@ -1,3 +1,9 @@
 ----------------------------------------------
 CRASH: dom mar 22 13:54:19 -03 2020
 Start Line: ./hlds_linux -console -game cstrike +port 27020 +map de_dust2 +maxplayers 32 -pingboost 1
+----------------------------------------------
+CRASH: dom mar 22 15:43:16 -03 2020
+Start Line: ./hlds_linux -console -game cstrike +port 27020 +map de_dust2 +maxplayers 32 -pingboost 1
+----------------------------------------------
+CRASH: dom mar 22 15:45:15 -03 2020
+Start Line: ./hlds_linux -console -game cstrike +port 27020 +map de_dust2 +maxplayers 32 -pingboost 1
